@@ -1,5 +1,5 @@
 {
-    "name": "vendor/new",
+    "name": "denntl/new",
     "type": "project",
     "require": {
         "php": ">=5.6"
