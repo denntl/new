@@ -1,5 +1,5 @@
 {
-    "name": "new",
+    "name": "vendor/new",
     "type": "project",
     "require": {
         "php": ">=5.6"
