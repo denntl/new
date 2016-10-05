@@ -6,10 +6,10 @@
  * Date: 05.10.2016
  * Time: 15:58
  */
-class newClass
+class NewClass
 {
     public function __construct()
     {
-        echo "Class constructed";
+        echo "Class constructed!";
     }
 }

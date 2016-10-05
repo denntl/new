@@ -8,4 +8,4 @@
 
 require("vendor/autoload.php");
 
-new newClass();
+new NewClass();

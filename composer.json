@@ -3,9 +3,5 @@
     "type": "project",
     "require": {
         "php": ">=5.6"
-    },
-    "autoload" : {
-        "classmap": ["New.php"],
-        "files": ["newfile.php"]
     }
 }
